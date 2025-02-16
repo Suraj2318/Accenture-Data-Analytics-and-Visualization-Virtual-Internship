@@ -1,62 +1,67 @@
-### **Accenture Data Analytics and Visualization Virtual Internship**  
+### **Accenture Virtual Internship: Data Analytics and Visualization**
 
-#### **Task 1: Project Understanding**  
+#### **Task 1: Understanding the Project**  
 **Client Overview:**  
 - **Client Name:** Social Buzz  
-- **Client Challenge:** Social Buzz has experienced massive growth in recent years but lacks internal resources to manage their scale effectively.  
-- **Objective:**  
-  1. Audit Social Buzz's big data practices.  
-  2. Provide recommendations for IPO readiness.  
-  3. Analyze popular content to drive business insights.  
+- **Business Challenge:** The rapid growth of Social Buzz has created resource management challenges. They lack the internal capacity to manage their scale effectively.  
+- **Objective**  
+   1. Review and audit the client’s big data processes.  
+   2. Provide strategic recommendations to help prepare for an IPO.  
+   3. Conduct an analysis of content to determine trends and identify areas of high popularity.  
 
-**Data Analyst’s Task:**  
-- Conduct a detailed analysis of sample datasets with visualizations to understand content popularity.  
-- Deliverable: Identify the **top 5 content categories** with the highest popularity.  
-
----
-
-#### **Task 2: Data Identification and Cleaning**  
-**Objective:**  
-To determine the **top 5 content categories with the largest popularity**, analyze the relevant datasets and ensure they are clean and structured.  
-
-**Steps Involved:**  
-1. **Identify Relevant Datasets:**  
-   The following datasets are essential:  
-   - **Reaction Score:** Quantifies the popularity of content.  
-   - **Content ID:** Links content to its corresponding details.  
-   - **Reaction Types:** Classifies the types of reactions.  
-   - **Content Type:** Specifies the type of content.  
-   - **Category:** Groups content into broader categories.  
-
-2. **Data Cleaning:**  
-   - Remove rows with missing or incomplete values.  
-   - Adjust data types within columns to ensure consistency.  
-   - Eliminate irrelevant columns that do not contribute to answering the business question.  
-
-3. **Data Modeling:**  
-   - Merge the cleaned datasets (**Reaction Types**, **Reactions**, and **Content**) to create a single, structured dataset.  
-   - Output: One comprehensive **cleaned dataset** for analysis.  
+**Data Analyst Responsibility:**  
+- Analyze sample data to evaluate the popularity of various content categories.  
+- Key Deliverable: Identify and present the **top 5 content categories** with the highest popularity scores.  
 
 ---
 
-#### **Task 3: Data Visualization and Storytelling**  
-**Objective:**  
-Translate insights into visualizations and prepare a compelling presentation for the client.  
+#### **Task 2: Data Preparation and Cleaning**  
+**Goal:**  
+Filter and clean the datasets to ensure accuracy and relevance for identifying the top-performing content categories.  
 
 **Steps:**  
-1. **Visualization Creation:**  
-   - **Bar Chart 1:** Display the **top 5 content categories** with the largest popularity scores.  
-   - **Bar Chart 2:** Illustrate sentiment analysis of the most popular content category.  
+1. **Select Relevant Datasets:**  
+   The analysis focuses on the following key datasets:  
+   - **Reaction Score:** Measures the popularity of content.  
+   - **Reaction Types:** Details the types of responses received (e.g., likes, comments).  
+   - **Content ID, Type, and Category:** Provide metadata for content classification.  
 
-2. **PowerPoint Presentation:**  
-   - Follow the provided template to create a professional and concise presentation that outlines key findings.  
-   - Include data visualizations and insights to support recommendations.
+2. **Data Cleaning Process:**  
+   - Remove incomplete or missing entries from the datasets.  
+   - Standardize data types within columns for consistency.  
+   - Eliminate unnecessary columns that do not contribute to the analysis.  
+
+3. **Data Integration:**  
+   - Merge the cleaned datasets into a single, comprehensive file.  
+   - Final Output: A structured **cleaned dataset** that serves as the foundation for analysis.  
+
+---
+
+#### **Task 3: Analysis and Visualization**  
+**Goal:**  
+Generate insights from the cleaned dataset and visualize the findings in a client-friendly format.  
+
+**Steps:**  
+1. **Perform Data Analysis:**  
+   - Use the cleaned dataset to identify the **top 5 content categories** based on their reaction scores.  
+   - Analyze sentiment trends of the most popular content category.  
+
+2. **Create Visualizations:**  
+   - **Bar Chart 1:** Displays the **top 5 categories** by popularity.  
+   - **Bar Chart 2:** Highlights sentiment trends for the second most popular category.  
+
+3. **Prepare the Presentation:**  
+   - Develop a PowerPoint presentation using the provided template.  
+   - Include visualizations and key findings to create a compelling narrative.  
 
 ---
 
 #### **Task 4: Client Presentation**  
-**Deliverable:**  
-- Present the findings and visualizations from the analysis to Social Buzz's leadership team.  
-- Highlight key insights, including the **top 5 content categories**, to inform their decision-making and drive strategy.  
+**Objective:**  
+Deliver a professional presentation to Social Buzz stakeholders, summarizing insights and recommendations.  
+
+**Key Highlights:**  
+- Present the **top 5 content categories** and their performance metrics.  
+- Share actionable insights derived from the analysis to guide content strategies and resource planning.  
 
 ---
